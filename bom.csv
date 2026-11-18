@@ -1,0 +1,30 @@
+item,qty,price_usd,link,notes,source
+ESP32-DevKitC-32E 2-pack,1,19.99,https://www.amazon.com/dp/B0GF1ZJCCN,Controller,Amazon
+BTS7960 43A motor driver (HiLetgo),1,10.99,https://www.amazon.com/dp/B00WSN98DC,Drives 24V motor,Amazon
+INA219 current sensor 2-pack (HiLetgo),1,8.19,https://www.amazon.com/dp/B07VL8NY32,Touch detect + force limit,Amazon
+24V 10A 240W power supply,1,18.98,https://www.amazon.com/dp/B0BZVPWTB3,Bench power; verify seller,Amazon
+22mm E-stop NC mushroom (APIELE),1,9.99,https://www.amazon.com/dp/B079FKJG26,Safety cutoff,Amazon
+22mm 2-position key switch (APIELE),1,13.0,https://www.amazon.com/dp/B088PRMK7R,Arm/disarm,Amazon
+24V 30A relay module 2-pack (HiLetgo),1,9.99,https://www.amazon.com/dp/B0CFY5CB2V,E-stop breaks motor power,Amazon
+A3144 Hall sensor 20-pack,1,6.99,https://www.amazon.com/dp/B0CZ6QXMZ2,Top-dead-centre homing,Amazon
+Inline fuse holder kit 14AWG,1,8.59,https://www.amazon.com/dp/B0F6T8X81M,Overcurrent; confirm a 10A fuse is included,Amazon
+6001-2RS bearings 12-pack,1,8.99,https://www.amazon.com/dp/B0BRQRD5HR,Crank bearings,Amazon
+12mm rigid clamp coupler,1,12.99,https://www.amazon.com/dp/B097ZCNZX6,Motor to crank shaft,Amazon
+12mm HSS rod 150mm (uxcell),1,16.49,https://www.amazon.com/dp/B07SYYDWWD,"Crank shaft stubs; NO keyway, must be machined or use clamp hubs",Amazon
+Nylon webbing + buckles set,1,13.99,https://www.amazon.com/dp/B0GTLCYK3B,Chest straps; check webbing is about 25mm wide,Amazon
+200kg scale kit: 4x50kg load cells + HX711,1,18.99,https://www.amazon.com/dp/B0H87F9X3B,Put the phantom on this platform to read total force; confirm cells and HX711 are included,Amazon
+Die compression springs 5-pack (uxcell),1,13.39,https://www.amazon.com/dp/B0BTD48H3Q,Phantom chest; measure stiffness yourself,Amazon
+8mm dowel pins 25-pack,1,9.99,https://www.amazon.com/dp/B0DHH4QT5D,Wrist pin; crank pin needs about 36mm length,Amazon
+E-clip assortment,1,5.99,https://www.amazon.com/dp/B0DP9DZVG1,Retaining clips,Amazon
+M3-M6 screw kit 537pc,1,9.99,https://www.amazon.com/dp/B0GSDRXGHR,Hardware; no M8 in it,Amazon
+M8x300mm threaded rod,1,9.99,https://www.amazon.com/dp/B0C94VDRFG,Frame rods,Amazon
+ELEGOO PETG 1kg,1,12.99,https://www.amazon.com/dp/B0D41Y3WWZ,Printed parts,Amazon
+Gearmotor 24V 60mm planetary 77:1 (E-S Motor),1,122.0,,Not on Amazon; get torque curve first (estimate),Other vendor
+Crank discs 6061 CNC x2,1,50.0,,Custom machining (estimate),Other vendor
+Connecting rod + bushings,1,10.0,,Cut from 6061 bar (estimate),Other vendor
+Base plate 6061 400x160x8,1,30.0,,Metal supplier (estimate),Other vendor
+Birch plywood 12mm back plate,1,20.0,,Hardware store (estimate),Local
+14AWG silicone wire,1,15.0,,Not found in my search; any 14AWG kit (estimate),Amazon
+6x3mm neodymium disc magnets,1,10.0,,Search 'neodymium disc magnets 6x3mm' (estimate),Amazon
+Guard: print in PETG instead of polycarbonate,1,0.00,,Uses the PETG already in the list,Printed
+TOTAL,,497.50,,Amazon prices seen Nov 17 2026; non-Amazon rows are estimates; before tax and shipping,
